@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tnmrkj.github.io/newgrid-ai-lp/sitemap.xml
